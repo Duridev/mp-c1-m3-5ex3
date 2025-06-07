@@ -1,0 +1,16 @@
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\bin\Debug\net5.0\mod3-ex3.exe
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\bin\Debug\net5.0\mod3-ex3.deps.json
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\bin\Debug\net5.0\mod3-ex3.runtimeconfig.json
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\bin\Debug\net5.0\mod3-ex3.runtimeconfig.dev.json
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\bin\Debug\net5.0\mod3-ex3.dll
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\bin\Debug\net5.0\mod3-ex3.pdb
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\mod3-ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\mod3-ex3.AssemblyInfoInputs.cache
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\mod3-ex3.AssemblyInfo.cs
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\mod3-ex3.csproj.CoreCompileInputs.cache
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\mod3-ex3.sourcelink.json
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\mod3-ex3.dll
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\refint\mod3-ex3.dll
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\mod3-ex3.pdb
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\mod3-ex3.genruntimeconfig.cache
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo3.5-ex3\mod3-ex3\obj\Debug\net5.0\ref\mod3-ex3.dll
